@@ -1,8 +1,8 @@
-### Hello World 👋
+### Hello World! 👋
 
 ## Gustavo Fernandes
 
-- 🔭 Técnico em informática e estudante ávido de programação, com interesse em segurança da informação
+- 🔭 Técnico em informática e estudante ávido de programação, com interesse em segurança da informação e hacking
 - 🌱 Focado em Java
-- 😄 Aspirante a programador full-stack (HTML, CSS, JS, PHP, C e Python) com experiência prévia em React
+- 😄 Conhecimentos em back-end (Java, C, PHP) e front-end (HTML, CSS, JS), com experiência prévia em React
 - 📫 gustavo63693@gmail.com
