@@ -8,6 +8,7 @@
 
 ## Eu sou Gustavo Fernandes 👨‍💻
 
+* 18 anos
 * Estagiando como desenvolvedor backend
 * Formando técnico em informática
 
