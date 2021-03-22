@@ -12,13 +12,13 @@
 * Estagiando como desenvolvedor backend
 * Formando técnico em informática
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo63693@gmail.com)](mailto:tgmarinho@gmail.com)
-![GitHub Badge](https://badgen.net/badge/icon/github?icon=github&label)
-[![HitCount](http://hits.dwyl.com/gust-f/gust-f.svg)](http://hits.dwyl.com/gust-f/gust-f)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo63693@gmail.com)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=)
+![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gust_f_b)
 
 <br>
 
-### 🧠 Linguagens:
+### 🛠️ Stacks trabalhadas:
 
 <p align = "justify">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -26,19 +26,21 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/php.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </p>
 
 <br>
 
-### 🛠️ Ferramentas:
+### 🧠 Stacks com mais foco:
 
 <p align = "justify">
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
- </p>
- 
- <br>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</p>
+
+<br>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gust-f&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
