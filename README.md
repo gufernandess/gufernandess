@@ -14,7 +14,7 @@
 
 <br>
 
-<a href = "gustavo63693@gmail.com">
+<a href = "http://gustavo63693@gmail.com/">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href = "">
