@@ -23,7 +23,7 @@
 
 <br>
 
-### 🛠️ Stacks trabalhadas:
+### 🛠️ Experiência em:
 
 <p align = "justify">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
