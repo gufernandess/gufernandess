@@ -4,16 +4,18 @@
   <img src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
-# Hello World! 👋
+<h1 align="center">Hello World! 👋</h1>
 
-## Eu sou Gustavo Fernandes 👨‍💻
+<h2 align="center">Eu sou Gustavo Fernandes 👨‍💻</h2>
 
-* Estagiando como desenvolvedor backend
-* Formando técnico em informática
+<div align="center">
+  <li>Estagiando como desenvolvedor backend</li>
+  <li>Formando técnico em informática</li>
+</div>
 
 <br>
 
-<div>
+<div align="center">
   <a href="mailto: gustavo63693@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_gust.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-fernandes-b7821020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -22,9 +24,9 @@
 
 <br>
 
-### 🛠️ Experiência em:
+<h3 align="center">🛠️ Experiência em:</h3>
 
-<p align = "justify">
+<p align = "center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -35,9 +37,9 @@
 
 <br>
 
-### 🧠 Stacks com mais foco:
+<h3 align="center">🧠 Stacks com mais foco:</h3>
 
-<p align = "justify">
+<p align = "center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
