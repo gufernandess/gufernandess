@@ -28,8 +28,6 @@
   
 </div>
 
-<br>
-
 <h3 align="center">🛠️ Experiência em:</h3>
 
 <p align = "center">
