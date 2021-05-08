@@ -22,11 +22,11 @@
   <a href="https://www.linkedin.com/in/gustavo-fernandes-b7821020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/gust_f_b"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-  <br>
-  
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
   
 </div>
+
+<br>
 
 <h3 align="center">🛠️ Experiência em:</h3>
 
