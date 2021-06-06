@@ -11,6 +11,7 @@
 <div align="center">
   <li>Estagiando como desenvolvedor backend</li>
   <li>Formando técnico em informática</li>
+  <li>Bacharelando em Engenharia de Software</li>
 </div>
 
 <br>
