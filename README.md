@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">🧠 Stacks</h3>
+<h2 align="center">🧠 Stacks</h2>
 
 <p align = "center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
