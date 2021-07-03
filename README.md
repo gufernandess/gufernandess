@@ -39,7 +39,6 @@
   <!--<img src="https://img.icons8.com/color/48/000000/react-native.png"/>-->
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </p>
 
 <br>
