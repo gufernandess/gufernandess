@@ -12,7 +12,7 @@
   <li>Estagiando como desenvolvedor backend</li>
   <li>Formando técnico em informática</li>
   <li>Graduando em Engenharia de Software</li>
-  <li>Estudos focados em desenvolvimento frontend</li>
+  <li>Estudos focados em desenvolvimento Front-End</li>
 </div>
 
 <br>
