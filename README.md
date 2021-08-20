@@ -43,9 +43,9 @@
  
  <div align="center">
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gust-f&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussst&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gust-f&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gussst&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
