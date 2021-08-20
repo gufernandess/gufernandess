@@ -9,8 +9,7 @@
 <h2 align="center">Eu sou Gustavo Fernandes 👨‍💻</h2>
 
 <div align="center">
-  <li>Estagiando como desenvolvedor backend</li>
-  <li>Formando técnico em informática</li>
+  <li>Técnico em informática</li>
   <li>Graduando em Engenharia de Software</li>
   <li>Estudos focados em desenvolvimento Front-End</li>
 </div>
