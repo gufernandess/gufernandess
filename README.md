@@ -11,7 +11,7 @@
 <div align="center">
   <li>Técnico em informática</li>
   <li>Graduando em Engenharia de Software</li>
-  <li>Estudos focados em desenvolvimento Front-End</li>
+  <li>Estudos focados em desenvolvimento web</li>
 </div>
 
 <br>
