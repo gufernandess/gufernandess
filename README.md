@@ -19,9 +19,10 @@
 <div align="center">
   
   <a href="mailto: fernandesgustavogb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_gust.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-fernandes-b7821020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/gust_f_b"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/gufernandess/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gustavo-fernandes-b7821020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <!--<a href="https://instagram.com/_gust.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
+  <!--<a href = "https://twitter.com/gust_f_b"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>-->
   
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
   
@@ -29,17 +30,16 @@
 
 <h2 align="center">Stacks</h2>
 
-<p align = "center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <!--<img src="https://img.icons8.com/windows/48/000000/vuejs.png"/>-->
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <!--<img src="https://img.icons8.com/color/48/000000/sass.png"/>-->
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</p>
+<div align = "center">
+  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
+  
+</div>
 
 <br>
  
