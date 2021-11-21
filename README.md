@@ -1,7 +1,7 @@
 <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
 <p align = "center">
-  <img src = "https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b761175d1de8f3bd4923dfc3a22e5d4fbaab01f0629fb&rid=giphy.gif&ct=g">
+  <img src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 </p>
 
 <h1 align="center">Hello World! 👋</h1>
