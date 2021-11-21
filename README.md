@@ -15,7 +15,7 @@ var profile = {
    Formation: "Técnico em Informática",
    Graduation: "Engenharia de Software",
    Interests: ["Desenvolvimento Web", "Hacking"],
-   ActuallyStudying: ["POO", "Matemática proposicional"]
+   ActuallyStudying: ["POO", "Matemática Proposicional"]
 };
 
 ```
