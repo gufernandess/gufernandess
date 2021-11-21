@@ -8,20 +8,32 @@
 
 <h2 align="center">Eu sou Gustavo Fernandes 👨‍💻</h2>
 
-<div align="center">
-  <li>Técnico em informática</li>
-  <li>Graduando em Engenharia de Software</li>
-</div>
+```js
+
+var profile = {
+   Name: "Gustavo Fernandes",
+   Formation: "Técnico em Informática",
+   Graduation: "Engenharia de Software",
+   Interests: ["Desenvolvimento Web", "Hacking"]
+};
+
+```
 
 <br>
+
+<div align="center">
+  
+  [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+  
+</div>
+
+<h2 align="center">Contatos</h2>
 
 <div align="center">
   
   <a href="mailto: fernandesgustavogb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/gufernandess/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/gustavo-fernandes-b7821020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
   
 </div>
 
