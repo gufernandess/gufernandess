@@ -14,8 +14,7 @@ var profile = {
    Name: "Gustavo Fernandes",
    Formation: "Técnico em Informática",
    Graduation: "Engenharia de Software",
-   Interests: ["Desenvolvimento Web", "Hacking"],
-   ActuallyStudying: ["JavaScript", "Lógica Proposicional"]
+   Interests: ["Desenvolvimento Web", "Hacking"]
 };
 
 ```
