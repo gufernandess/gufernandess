@@ -14,7 +14,7 @@ var profile = {
    Name: "Gustavo Fernandes",
    Formation: "Computer Technician",
    Graduating: "Software Engineering",
-   Interests: ["Web Development", "Cybersecurity"]
+   Studying: ["Frontend development", "OOP with Java"]
 };
 
 ```
