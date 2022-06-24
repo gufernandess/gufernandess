@@ -14,6 +14,7 @@ var profile = {
    Name: "Gustavo Fernandes",
    Formation: "Computer Technician",
    Graduating: "Computer Science",
+   doingCurrently: ['Studying web development', 'improving my english', 'Focusing on college']
 };
 
 ```
@@ -39,7 +40,7 @@ var profile = {
 
 <br>
 
-<h2 align="center">Stacks</h2>
+<h2 align="center">Stacks I've worked with</h2>
 
 <div align = "center">
   
@@ -47,6 +48,8 @@ var profile = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   
 </div>
 
