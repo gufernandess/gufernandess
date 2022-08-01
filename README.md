@@ -14,7 +14,6 @@ var profile = {
    Name: "Gustavo Fernandes",
    Formation: "Computer Technician",
    Graduating: "Computer Science",
-   doingCurrently: ['Studying web development', 'improving my english', 'Focusing on college']
 };
 
 ```
