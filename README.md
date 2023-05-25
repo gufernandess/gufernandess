@@ -65,13 +65,10 @@ var profile = {
 <br>
 <br>
  
- <div align="center">
+ <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufernandess&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufernandess&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufernandess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Snake animation](https://github.com/gufernandess/gufernandess/blob/output/github-contribution-grid-snake.svg)
   
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufernandess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Snake animation](https://github.com/gufernandess/gufernandess/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
