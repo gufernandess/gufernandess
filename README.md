@@ -11,11 +11,11 @@
 ```js
 
 var profile = {
-   Name: "Gustavo Fernandes",
-   Formation: "Computer Technician",
-   Graduating: "Computer Science",
-   Semester: 3,
-   Languages: ["Portuguese", "English"]
+   name: "Gustavo Fernandes",
+   formation: "Computer Technician",
+   graduating: "Computer Science",
+   semester: 3,
+   languages: ["Portuguese", "English"]
 };
 
 ```
