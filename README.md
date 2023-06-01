@@ -14,6 +14,8 @@ var profile = {
    Name: "Gustavo Fernandes",
    Formation: "Computer Technician",
    Graduating: "Computer Science",
+   Semester: 3,
+   Languages: ["Portuguese", "English"]
 };
 
 ```
