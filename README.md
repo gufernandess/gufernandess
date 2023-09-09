@@ -4,31 +4,17 @@
   <img src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 </p>
 
-<h1 align="center">Hello world! 👋</h1>
+<h1 align="center">Hello world! 👋👨‍💻</h1>
 
-<h2 align="center">I'm Gustavo Fernandes 👨‍💻</h2>
+<p align="justify">
+  Greetings! I´m Gustavo Fernandes, a 20-year-old Computer Science student at <a href="https://www.ufc.br/">Federal University of Ceara</a>, interested in learning anything that involves computing and problem-solving, especially <b>data structures and algorithms</b>.
+</p>
 
-```js
+<p align="justify">
+  Actually I´m work as a <b>frontend freelancer</b>, doing some projets and taking some development experience. Furthermore, I recently begin to study about <b>competitive programming</b> because it's a branch of computing that really appealed to me and I intend to continue with it for a long time.
+</p>
 
-var profile = {
-   name: "Gustavo Fernandes",
-   formation: "Computer Technician",
-   graduating: "Computer Science",
-   semester: 4,
-   languages: ["Portuguese", "English"]
-};
-
-```
-
-<br>
-
-<div align="center">
-  
-  [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
-  
-</div>
-
-<h2 align="center">Contacts</h2>
+<h2 align="center">Blogs & Contacts</h2>
 
 <div align="center">
 
@@ -39,9 +25,7 @@ var profile = {
   
 </div>
 
-<br>
-
-<h2 align="center">Stacks I've worked with</h2>
+<h2 align="center">Stack</h2>
 
 <div align = "center">
   
@@ -52,7 +36,18 @@ var profile = {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitehields">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
+  
+</div>
+
+<h2 align="center">IDE´s & OS´s</h2>
+
+<div align = "center">
+
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   
 </div>
 
@@ -62,7 +57,5 @@ var profile = {
  <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufernandess&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufernandess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Snake animation](https://github.com/gufernandess/gufernandess/blob/output/github-contribution-grid-snake.svg)
   
 </div>
