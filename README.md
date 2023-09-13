@@ -11,7 +11,7 @@
 </p>
 
 <p align="justify">
-  Actually I´m work as a <b>frontend freelancer</b>, doing some projets and taking some development experience. Furthermore, I recently begin to study about <b>competitive programming</b> because it's a branch of computing that really appealed to me and I intend to continue with it for a long time.
+  Actually I´m working as a <b>freelancer</b>, doing some projets and taking some development experience. Furthermore, I recently begin to study about <b>competitive programming</b> because it's a branch of computing that really appealed to me and I intend to continue with it for a long time.
 </p>
 
 <h2 align="center">Blogs & Contacts</h2>
