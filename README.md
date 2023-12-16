@@ -7,25 +7,21 @@
 <h1 align="center">Hello world! 👋👨‍💻</h1>
 
 <p align="justify">
-  Greetings! I´m Gustavo Fernandes, a 20-year-old Computer Science student at <a href="https://www.ufc.br/">Federal University of Ceara</a>, interested in learning anything that involves computing and problem-solving, especially <b>data structures and algorithms</b>.
+  Olá! Sou Gustavo Fernandes, tenho 21 anos e sou um estudante de Ciência da Computação na <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>, interessado em aprender qualquer coisa que envolva computação e solução de problemas, especialmente relacionado a <b>estruturas de dados e algoritmos.</b>
 </p>
 
-<p align="justify">
-  Actually I´m studying backend with <b>Java and Spring Boot</b>. Furthermore, I recently begin to study about <b>competitive programming</b> because it's a branch of computing that really appealed to me and I intend to continue with it for a long time.
-</p>
-
-<h2 align="center">Blogs & Contacts</h2>
+<h2 align="center">Contatos</h2>
 
 <div align="center">
 
   <a href="https://codeforces.com/profile/gustavofernandescc" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   <a href="mailto: gustavofernandescc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://github.com/gufernandess/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gustavo-fernandes-bb9809228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gustafernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </div>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Ferramentas</h2>
 
 <div align = "center">
   
@@ -35,10 +31,12 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitehields">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   
 </div>
 
-<h2 align="center">IDE´s & OS´s</h2>
+<h2 align="center">Área de Trabalho</h2>
 
 <div align = "center">
 
