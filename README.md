@@ -7,10 +7,10 @@
 <h1 align="center">Hello world! 👋👨‍💻</h1>
 
 <p align="justify">
-  Olá! Sou Gustavo Fernandes, tenho 21 anos e sou um estudante de Ciência da Computação na <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>, interessado em aprender qualquer coisa que envolva computação e solução de problemas, especialmente relacionado a <b>estruturas de dados e algoritmos.</b>
+  Hi, I'm Gustavo Fernandes, I'm 21 years old and I'm a Computer Science student at the <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>, interested in learning anything that involves computing and problem solving, especially related to <b>data structures and algorithms</b>.
 </p>
 
-<h2 align="center">Contatos</h2>
+<h2 align="center">Contacts</h2>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
   
 </div>
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="center">Stacks</h2>
 
 <div align = "center">
   
@@ -36,7 +36,7 @@
   
 </div>
 
-<h2 align="center">Área de Trabalho</h2>
+<h2 align="center">Workspace</h2>
 
 <div align = "center">
 
