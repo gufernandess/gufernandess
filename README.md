@@ -7,7 +7,7 @@
 <h1 align="center">Hello world! 👋👨‍💻</h1>
 
 <p align="justify">
-  Olá! Meu nome é Gustavo Fernandes, Tenho 21 anos e estudo Ciência da Computação pela <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>. Interessado em tudo que envolva computação e resolução de problemas.
+  Olá! Meu nome é Gustavo Fernandes, tenho 21 anos e estudo Ciência da Computação pela <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>. Interessado em tudo que envolva computação e resolução de problemas.
 </p>
 
 <h2 align="center">Contatos</h2>
