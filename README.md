@@ -53,6 +53,8 @@
  
  <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufernandess&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufernandess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
 </div>
