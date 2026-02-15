@@ -7,10 +7,10 @@
 <h1 align="center">Hello world! 👋👨‍💻</h1>
 
 <p align="justify">
-  Olá! Meu nome é Gustavo Fernandes, tenho 22 anos e estudo Ciência da Computação pela <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará - Campus Quixadá</a>. Interessado em tudo que envolva computação e resolução de problemas.
+ Hi there! My name is Gustavo Fernandes. I'm a web developer and computer scientist, but at heart, I'm a computer enthusiast passionate about solving problems through programming and algorithms.
 </p>
 
-<h2 align="center">Contatos</h2>
+<h2 align="center">Contact me</h2>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
   
 </div>
 
-<h2 align="center">Linguagens e frameworks</h2>
+<h2 align="center">What I currently know</h2>
 
 <div align = "center">
   
@@ -30,21 +30,20 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-
-  
-  
 </div>
 
-<h2 align="center">Espaço de trabalho</h2>
+<h2 align="center">My workspace</h2>
 
 <div align = "center">
 
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
-  <img src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   
   
 </div>
